@@ -2,7 +2,7 @@
 This is a simple Rest API without the use of expressJs or any other framework
 
 This Repo is a part a blog post,
-here's a link to the blog https://medium.com/@moronkejiayodejidave/building-nodejs-api-without-expressjs-or-any-other-framework-977e8768abb1
+here's a link to the blog http://bit.ly/39QcUKc
 
 ## Prerequisites
 - Have nodeJs installed on your machine
